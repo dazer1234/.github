@@ -2,6 +2,12 @@
 
 Tiny Task Desk is a small EUR 5 digital product and tiny-task intake route for simple, permission-based work.
 
+## Current Status
+
+Tiny Task Desk is accepting EUR 5 Micro Offer Kit purchases and small confirmed tiny-task briefs through the public payment/contact routes below.
+
+Good EUR 5 task shapes include a quick rewrite, tiny research note, short summary, admin checklist, or simple cleanup request. If a request is unclear or too large for EUR 5, it is clarified before work starts.
+
 ## EUR 5 Micro Offer Kit
 
 The EUR 5 Micro Offer Kit is a printable worksheet for packaging one small useful service into a clear offer. It is built for practical task shapes such as a quick rewrite, tiny research note, short summary, admin checklist, or small cleanup request.
@@ -58,4 +64,12 @@ The task is confirmed before work starts if the request is unclear or too large 
 
 No earnings are guaranteed. This is a planning worksheet and small manual service route, not an income promise.
 
-Tiny Task Desk does not support spam, fake reviews, impersonation, deceptive reviews, scraping private data, bypassing security checks, or work that requires access the buyer does not have permission to use.
+Tiny Task Desk does not support spam, fake reviews, impersonation, deceptive reviews, scraping private data, credential handling, private-key handling, bypassing security checks, or work that requires access the buyer does not have permission to use.
+
+## Last Verification
+
+Checked on 2026-05-19 20:11 +02:00:
+
+- Stripe balance was EUR 0.00 available and EUR 0.00 pending.
+- Stripe recent payment intents list was empty.
+- Gmail buyer/task search found no matching Tiny Task Desk, Buy Me a Coffee, Stripe, payment, or task request messages from the last two days.
