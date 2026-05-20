@@ -6,39 +6,44 @@ Tiny Task Desk is a small EUR 5 digital product and tiny-task intake route for s
 
 Tiny Task Desk is accepting EUR 5 Micro Offer Kit purchases and small confirmed tiny-task briefs through the public payment/contact routes below.
 
-Good EUR 5 task shapes include a quick rewrite, tiny research note, short summary, admin checklist, or simple cleanup request. If a request is unclear or too large for EUR 5, it is clarified before work starts.
+Last checked: 2026-05-20 16:15 +02:00
 
-## EUR 5 Micro Offer Kit
+Payment and contact routes checked this run:
 
-The EUR 5 Micro Offer Kit is a printable worksheet for packaging one small useful service into a clear offer. It is built for practical task shapes such as a quick rewrite, tiny research note, short summary, admin checklist, or small cleanup request.
+- Stripe payment link: https://buy.stripe.com/3cI14q5HQ8lP4qa3Io8EM00
+- Buy Me a Coffee profile: https://buymeacoffee.com/tinytaskdesk
+- Product post: https://buymeacoffee.com/tinytaskdesk/eur-5-micro-offer-kit-live
+- Tiny-task post: https://buymeacoffee.com/tinytaskdesk/tiny-tasks-eur-1-5
+- Receipt and task email: hausersimeon38@gmail.com
 
-Price: EUR 5
+## EUR 5 Options
 
-Payment link:
+Choose one:
 
-https://buy.stripe.com/3cI14q5HQ8lP4qa3Io8EM00
+1. Micro Offer Kit
+   - Printable one-page worksheet.
+   - Buyer README, filled example, task intake brief, sample menu, and listing package.
+   - Best for packaging one small service into a simple public offer.
 
-Public Buy Me a Coffee page:
+2. Tiny Task Help
+   - One quick rewrite, short summary, tiny research note, admin checklist, or simple cleanup task after scope confirmation.
+   - Best when the buyer already has text, notes, or links ready.
 
-https://buymeacoffee.com/tinytaskdesk
+## Buyer Brief To Send After Payment
 
-Public product post:
+Email the receipt plus:
 
-https://buymeacoffee.com/tinytaskdesk/eur-5-micro-offer-kit-live
+- chosen option: kit or tiny task,
+- task type if requesting a tiny task,
+- source text, notes, or links,
+- desired output format,
+- anything to avoid.
 
-Tiny-task intake post:
-
-https://buymeacoffee.com/tinytaskdesk/tiny-tasks-eur-1-5
-
-After payment, email the receipt or screenshot to:
-
-`hausersimeon38@gmail.com`
-
-Use this subject:
+Use this subject for kit delivery:
 
 `EUR 5 Micro Offer Kit - paid receipt`
 
-## What is included
+## What The Kit Includes
 
 - Printable PDF worksheet
 - PNG preview
@@ -49,27 +54,30 @@ Use this subject:
 - Sample task menu
 - Listing package
 
-## Tiny-task requests
+## Fit Check
 
-For a tiny task instead of the worksheet, send the receipt plus a short brief:
+Good fits:
 
-- task type: rewrite, tiny research, short summary, or admin checklist
-- source text, links, or notes
-- exact result wanted and preferred format
-- anything to avoid or clarify before delivery
+- rewrite one short paragraph or profile block,
+- summarize one small page or short note,
+- turn rough notes into a checklist,
+- find a few public facts with source links,
+- clean up a short listing or offer description.
 
-The task is confirmed before work starts if the request is unclear or too large for EUR 5.
+Not accepted:
 
-## Boundaries
+- spam, fake reviews, impersonation, deceptive claims,
+- credential, password, private-key, or bank-detail handling,
+- legal, medical, financial, or tax advice,
+- large open-ended projects.
 
-No earnings are guaranteed. This is a planning worksheet and small manual service route, not an income promise.
+No earnings are guaranteed. The kit is a planning and messaging aid, and tiny tasks are manual scope-confirmed help.
 
-Tiny Task Desk does not support spam, fake reviews, impersonation, deceptive reviews, scraping private data, credential handling, private-key handling, bypassing security checks, or work that requires access the buyer does not have permission to use.
+## Verification Notes
 
-## Last Verification
-
-Checked on 2026-05-19 20:11 +02:00:
+Checked on 2026-05-20 16:15 +02:00:
 
 - Stripe balance was EUR 0.00 available and EUR 0.00 pending.
 - Stripe recent payment intents list was empty.
-- Gmail buyer/task search found no matching Tiny Task Desk, Buy Me a Coffee, Stripe, payment, or task request messages from the last two days.
+- Gmail buyer/task search found no matching Tiny Task Desk, Buy Me a Coffee, Stripe, payment, task request, receipt, or buyer messages from the last two days.
+- Public Buy Me a Coffee profile, both public posts, and the Stripe payment link returned HTTP 200.
